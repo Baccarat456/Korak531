@@ -1,0 +1,9 @@
+{
+  "example_scrape": {
+    "url": "https://example.local/aq/station-history",
+    "item_selector": ".history-row",
+    "date_selector": ".date",
+    "value_selector": ".value",
+    "parameter": "pm25"
+  }
+}

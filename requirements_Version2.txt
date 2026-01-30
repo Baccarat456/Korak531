@@ -1,0 +1,7 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+openai==1.0.0
+python-dotenv==1.0.0
+sqlite-utils==3.33
+pandas==2.2.2
+tqdm==4.66.0
